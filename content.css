@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+}
+.inner {
+    border: 0px solid black;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* padding: 20px; */
+
+   
+   
+}
+ #first{
+    width:100%;
+    background-color: blue;
+    color: white;
+}
+.flex{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

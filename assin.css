@@ -1,0 +1,19 @@
+html{
+    border: 2px solid black;
+}
+header{
+    border: 10px solid hwb(131 14% 60%);
+    background-color: hwb(131 14% 60%);
+}
+a{
+    
+    color: hsl(157, 47%, 90%);
+    background-color:hwb(131 14% 60%);
+    margin: 105px;
+    padding: 1px;
+    border: 1px solid hwb(131 14% 60%);
+    text-decoration: none;
+    font-size:22px;
+   
+   
+}

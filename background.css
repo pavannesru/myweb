@@ -1,0 +1,26 @@
+.box{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1{
+    background-image: url(./images/1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#box2{
+    background-image: url(./images/2.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#box3{
+    background-image: url(./images/6.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body{
+    background-image: url(./images/11.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

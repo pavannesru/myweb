@@ -1,0 +1,30 @@
+h1{
+    text-align:center;
+}
+#container{
+    border: 2px solid black;
+    width: 550px;
+    height: 300px;
+    display: flex;
+    /* justify-content: flex-start; */
+    /* justify-content: center; */
+    /* justify-content: flex-end; */
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    justify-content: space-between;
+
+    flex-wrap: wrap;
+    align-items: center;
+
+
+
+}
+#special{
+    /* align-self: flex-start; */
+    align-self: flex-end;
+}
+.fitem{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}

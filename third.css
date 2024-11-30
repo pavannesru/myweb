@@ -1,0 +1,21 @@
+footer{
+   border: 2px solid black;
+   height: 200px;
+   background-color: grey;
+    
+
+}
+div{
+    display:inline-block;
+    border: 2px solid black;
+    height: 100%;
+    width:30%;
+    /* padding-left: 100px; */
+}
+a{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 20px;
+    color: aliceblue;
+}
